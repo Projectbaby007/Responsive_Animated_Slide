@@ -6,9 +6,10 @@
 }
 
 :root {
-    --primary-color: #ff3700;
+    --primary-color: #f26a2e;
 }
 
-body {
+.body {
     background: #000;
+    font-family: Poppins, sans-serif;
 }
