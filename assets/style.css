@@ -184,3 +184,21 @@ header {
     text-transform: uppercase;
     transition: 0.5s;
 }
+
+.banner .content button a:nth-child(2) {
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.banner .content button a:hover:nth-child() {
+    background: var(--primary);
+}
+
+.b.banner .carousel-box {
+    position: relative;
+    min-width: 950px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.2);
+}
