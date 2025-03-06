@@ -219,8 +219,8 @@ header {
 }
 
 .carousel.carousel-item img {
-    max-width: 250px;
-    border-radius: 10px;
+    max-width: 200px;
+    border-radius: 12px;
     transform: translateX(8px) translateY(-100px);
     object-fit: cover;
     object-position: center;
